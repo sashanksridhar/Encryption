@@ -1,0 +1,1 @@
+ of companies surveyed utilized encryption for some of their data in transit, and 53% utilized encryption for some of their data

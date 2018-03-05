@@ -1,0 +1,3 @@
+mewhat different example of using encryption on data at rest.[7]
+
+In response to encryption of data at rest, cyber-adversaries h

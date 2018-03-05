@@ -1,0 +1,1 @@
+ in storage.[6] Encryption can be used to protect data "at rest", such as information stored on computers and storage devices (e
