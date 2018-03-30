@@ -1,0 +1,3 @@
+t, or destroy.[14]
+
+Encryption is also used to protect data in transit, for example data being transferred via networks (e.g. th

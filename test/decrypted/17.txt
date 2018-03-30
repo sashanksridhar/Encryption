@@ -1,0 +1,1 @@
+e encrypted when transmitted across networks in order to protect against eavesdropping of network traffic by unauthorized users.

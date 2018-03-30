@@ -1,0 +1,1 @@
+ounter some of these attacks, by distributing, moving, or mutating ciphertext so it is more difficult to identify, steal, corrup
